@@ -1,5 +1,7 @@
 // ============================================================
 //  COMANDOS DE MENU
+
+// bot desenvolvido por erickmachine
 // ============================================================
 import config from '../config.js'
 import { buildMenu, botHeader, botFooter } from '../lib/utils.js'
