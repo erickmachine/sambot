@@ -6,10 +6,10 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" />
 </p>
 
-<h1 align="center">DemiBot - Bot para WhatsApp</h1>
+<h1 align="center">SamBot - Bot para WhatsApp</h1>
 
 <p align="center">
-  Bot completo para gerenciamento de grupos no WhatsApp com identidade visual inspirada em Demi Lovato.<br/>
+  Bot completo para gerenciamento de grupos no WhatsApp com identidade visual criado por Erick Machine Souce da TomoriBot e DemiBot.<br/>
   +200 comandos | Multi-prefixo | Sistema de Gold | Jogos | Downloads | Figurinhas | Painel Web
 </p>
 
@@ -17,7 +17,7 @@
 
 ## Sobre
 
-O **DemiBot** e um bot robusto para WhatsApp construido em Node.js usando a biblioteca [Baileys](https://github.com/WhiskeySockets/Baileys). Ele oferece gerenciamento completo de grupos com sistema de cargos, economia virtual (gold), jogos interativos, criacao de figurinhas, downloads de midia e muito mais.
+O **SamBot** e um bot robusto para WhatsApp construido em Node.js usando a biblioteca [Baileys](https://github.com/WhiskeySockets/Baileys). Ele oferece gerenciamento completo de grupos com sistema de cargos, economia virtual (gold), jogos interativos, criacao de figurinhas, downloads de midia e muito mais.
 
 ---
 
